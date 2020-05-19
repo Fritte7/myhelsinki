@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Helsinki</string>
+    <string name="google_api">https://maps.googleapis.com/</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="contentDesc" />
+    <string name="permission_location_title">Permission required</string>
+    <string name="permission_location_message">Permission to access your current location is required for this app to improve your experience.</string>
+    <string name="OK">OK</string>
+    <string name="notification_title">Event near you</string>
+    <string name="notification_channel_name">My helsinki event</string>
+    <string name="channel_description">Notification for events nearby</string>
+    <string name="notification_event_start">start the</string>
+</resources>
